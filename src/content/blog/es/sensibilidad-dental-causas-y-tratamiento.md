@@ -1,4 +1,5 @@
 ---
+author: Rosa Escolano
 pubDatetime: 2026-07-06
 modDatetime: 2026-07-06
 title: "Sensibilidad dental: ¿Por qué duelen los dientes con el frío o el calor?"
