@@ -3,7 +3,7 @@ author: Rosa Escolano
 pubDatetime: 2026-07-06
 modDatetime: 2026-07-06
 title: "Tooth Sensitivity: Why Do Teeth Hurt with Hot or Cold?"
-ogImage: https://raw.githubusercontent.com/rosaescolano/dinadent-blog/main/public/assets/sensibilidadDental.webp
+ogImage: https://raw.githubusercontent.com/rosaescolano/dinadent-blog/main/public/sensibilidadDental.webp
 slug: tooth-sensitivity-causes-and-treatment
 featured: false
 draft: false
