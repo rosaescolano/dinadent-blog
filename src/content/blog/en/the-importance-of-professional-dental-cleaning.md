@@ -1,13 +1,19 @@
 ---
+author: Rosa Escolano
+pubDatetime: 2026-07-06
+modDatetime: 2026-07-06
 title: "The Importance of Professional Dental Cleaning: Beyond Brushing"
-slug: "the-importance-of-professional-dental-cleaning"
-pubDatetime: 2026-07-06T10:00:00Z
-description: "Discover why daily brushing is not enough to eliminate tartar and how clinical cleanings protect your overall health."
+ogImage: https://raw.githubusercontent.com/rosaescolano/dinadent-blog/main/public/assets/limpiezaDental.webp
+slug: the-importance-of-professional-dental-cleaning
 featured: true
 draft: false
-tags: ["prevention", "oral-hygiene", "health"]
+tags:
+  - prevention
+  - oral-hygiene
+  - health
+description: Discover why daily brushing is not enough to eliminate tartar and
+  how clinical cleanings protect your overall health.
 ---
-
 Many patients believe that maintaining a brushing routine three times a day is enough to guarantee optimal oral health. However, clinical evidence shows that domestic brushing and flossing do not effectively reach all gingival sulci or the deepest interdental spaces. Over time, the remaining bacterial plaque that is not removed mineralizes due to minerals in saliva, turning into tartar or dental calculus.
 
 Tartar has a rough surface that makes it easy for even more bacteria to adhere. Once consolidated, it is impossible to remove with a conventional toothbrush; professional instrumentation (ultrasound and curettes) is required at the dental clinic. If tartar is not removed periodically (at least once or twice a year, depending on the patient), the accumulated bacteria trigger an inflammatory response in the gum known as gingivitis, characterized by redness, swelling, and bleeding during brushing.
