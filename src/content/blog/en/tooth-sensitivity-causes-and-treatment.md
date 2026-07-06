@@ -1,4 +1,5 @@
 ---
+author: Rosa Escolano
 pubDatetime: 2026-07-06
 modDatetime: 2026-07-06
 title: "Tooth Sensitivity: Why Do Teeth Hurt with Hot or Cold?"
