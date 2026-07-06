@@ -3,7 +3,7 @@ author: Rosa Escolano
 pubDatetime: 2026-07-06
 modDatetime: 2026-07-06
 title: "Implantes dentales: La solución definitiva para recuperar la funcionalidad"
-ogImage: https://raw.githubusercontent.com/rosaescolano/dinadent-blog/main/public/assets/implantesDentales.webp
+ogImage: https://raw.githubusercontent.com/rosaescolano/dinadent-blog/main/public/implantesDentales.webp
 slug: implantes-dentales-la-solucion-definitiva
 featured: false
 draft: false
