@@ -3,7 +3,7 @@ author: Rosa Escolano
 pubDatetime: 2026-07-06
 modDatetime: 2026-07-06
 title: "Bruxism: How Stress Affects Your Dental and Jaw Health"
-ogImage: https://raw.githubusercontent.com/rosaescolano/dinadent-blog/main/public/assets/bruxismoFerulas.webp
+ogImage: https://raw.githubusercontent.com/rosaescolano/dinadent-blog/main/public/bruxismoFerulas.webp
 slug: bruxism-how-stress-affects-teeth
 featured: false
 draft: false
