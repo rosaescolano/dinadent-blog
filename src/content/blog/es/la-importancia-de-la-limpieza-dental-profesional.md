@@ -3,7 +3,7 @@ author: Rosa Escolano
 pubDatetime: 2026-07-06
 modDatetime: 2026-07-06
 title: "La importancia de la limpieza dental profesional: Más allá del cepillado"
-ogImage: https://raw.githubusercontent.com/rosaescolano/dinadent-blog/main/public/assets/limpiezaDental.webp
+ogImage: https://raw.githubusercontent.com/rosaescolano/dinadent-blog/main/public/limpiezaDental.webp
 slug: la-importancia-de-la-limpieza-dental-profesional
 featured: true
 draft: false
