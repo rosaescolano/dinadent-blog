@@ -3,7 +3,7 @@ author: Rosa Escolano
 pubDatetime: 2026-07-06
 modDatetime: 2026-07-06
 title: "Sensibilidad dental: ¿Por qué duelen los dientes con el frío o el calor?"
-ogImage: https://raw.githubusercontent.com/rosaescolano/dinadent-blog/main/public/assets/sensibilidadDental.webp
+ogImage: https://raw.githubusercontent.com/rosaescolano/dinadent-blog/main/public/sensibilidadDental.webp
 slug: sensibilidad-dental-causas-y-tratamiento
 featured: false
 draft: false
