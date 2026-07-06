@@ -3,7 +3,7 @@ author: Rosa Escolano
 pubDatetime: 2026-07-06
 modDatetime: 2026-07-06
 title: "La importància de la neteja dental professional: Més enllà del raspallat"
-ogImage: https://raw.githubusercontent.com/rosaescolano/dinadent-blog/main/public/assets/limpiezaDental.webp
+ogImage: https://raw.githubusercontent.com/rosaescolano/dinadent-blog/main/public/limpiezaDental.webp
 slug: la-importancia-de-la-neteja-dental-professional
 featured: true
 draft: false
