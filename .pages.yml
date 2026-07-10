@@ -13,7 +13,7 @@ content:
       - { name: pubDatetime, label: Date, type: date }
       - { name: modDatetime, label: Date, type: date }
       - { name: title, label: Title, type: string, required: true }
-       - { name: translation_key, label: "Translation Key (ID)", type: string, required: true, hint: "Usa el mismo ID en las traducciones de este post" }
+       - { name: translation_key, label: "Translation Key (ID)", type: string, hint: "Usa el mismo ID en las traducciones de este post" }
       - { name: ogImage, label: Title, type: string }
       - { name: slug, label: Slug, type: string }
       - { name: featured, label: Featured, type: boolean }
