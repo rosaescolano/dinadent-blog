@@ -3,6 +3,7 @@ author: Rosa Escolano
 pubDatetime: 2026-07-06
 modDatetime: 2026-07-06
 title: "Bruxismo: Cómo afecta el estrés a tu salud dental y mandibular"
+translation_key: bruxismo-como-afecta-el-estres
 ogImage: https://raw.githubusercontent.com/rosaescolano/dinadent-blog/main/public/bruxismoFerulas.webp
 slug: bruxismo-como-afecta-el-estres
 featured: false
