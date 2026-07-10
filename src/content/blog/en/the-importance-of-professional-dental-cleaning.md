@@ -3,6 +3,7 @@ author: Rosa Escolano
 pubDatetime: 2026-07-06
 modDatetime: 2026-07-06
 title: "The Importance of Professional Dental Cleaning: Beyond Brushing"
+translation_key: la-importancia-de-la-limpieza-dental-profesional
 ogImage: https://raw.githubusercontent.com/rosaescolano/dinadent-blog/main/public/limpiezaDental.webp
 slug: the-importance-of-professional-dental-cleaning
 featured: true
