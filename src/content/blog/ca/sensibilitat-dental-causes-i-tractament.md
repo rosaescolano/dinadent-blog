@@ -3,6 +3,7 @@ author: Rosa Escolano
 pubDatetime: 2026-07-06
 modDatetime: 2026-07-06
 title: "Sensibilitat dental: Per què fan mal les dents amb el fred o la calor?"
+translation_key: sensibilidad-dental-causas-y-tratamiento
 ogImage: https://raw.githubusercontent.com/rosaescolano/dinadent-blog/main/public/sensibilidadDental.webp
 slug: sensibilitat-dental-causes-i-tractament
 featured: false
