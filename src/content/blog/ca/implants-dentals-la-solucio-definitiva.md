@@ -3,6 +3,7 @@ author: Rosa Escolano
 pubDatetime: 2026-07-06
 modDatetime: 2026-07-06
 title: "Implants dentals: La solució definitiva per recuperar la funcionalitat"
+translation_key: implantes-dentales-la-solucion-definitiva
 ogImage: https://raw.githubusercontent.com/rosaescolano/dinadent-blog/main/public/implantesDentales.webp
 slug: implants-dentals-la-solucio-definitiva
 featured: false
