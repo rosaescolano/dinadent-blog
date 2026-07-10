@@ -3,6 +3,7 @@ author: Rosa Escolano
 pubDatetime: 2026-07-06
 modDatetime: 2026-07-06
 title: Avantatges de l'ortodòncia invisible enfront dels brackets tradicionals
+translation_key: ventajas-de-la-ortodoncia-invisible
 ogImage: https://raw.githubusercontent.com/rosaescolano/dinadent-blog/main/public/ortodonciaInvisible.webp
 slug: avantatges-de-l-ortodoncia-invisible
 featured: false
